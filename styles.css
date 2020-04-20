@@ -1,0 +1,43 @@
+/* Vicky's CSS */
+
+/* Box Dimensions */
+.container-card {
+    width: 310px;
+    border: 1px solid #DCDCDC;
+    box-shadow: 6px 6px 1px 0px #EBEBEB;
+    padding-right: .2em;
+    padding-left: .7em;
+    padding-bottom: .6em;
+  }
+  
+  /* List Information */
+  .animal-information {
+    width: 283px;
+    border: 1px solid #DCDCDC;
+    padding-right: .5em;
+    padding-left: .5em;
+  }
+  
+  /* Image */
+  .animal-image {
+    width: 300px;
+    height: 200px;
+    padding-bottom: .8em;
+  }
+  
+  /* Interesting Fact */
+  .animal-fact {
+    font-style: italic;
+  }
+  
+  /* Description */
+  .animal-description{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* Bold Span */
+  span {
+    font-weight: bold;
+  }
