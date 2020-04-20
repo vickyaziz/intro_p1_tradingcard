@@ -11,8 +11,9 @@ Goal
 ---
 
 The goals of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on my work in a this written report
+* Page resembles card from design prototype
+* Separates HTML from CSS by linking to stylesheet
+* Code is ready for review, meaning new lines and indentation are used for easy readability
 
 
 Result
